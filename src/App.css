@@ -5,7 +5,7 @@ body {
   padding: 0;
   font-family: 'Quicksand', 'Comic Neue', sans-serif;
   background: url('../public/japan_vibes/background.gif') no-repeat center center fixed;
-  background-color: rgb(44, 62, 80); /* fills space around gif */
+  background-color: rgb(44, 62, 80);
   background-size: contain;
   height: 100vh;
   display: flex;
